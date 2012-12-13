@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <style>
+        body{font-family:Tahoma,serif;background-color:#1173aa;text-align:center;color:#fff;margin:100px;padding-left:5%;}
+        #left{font-size:200px;text-align:left;width:40%;}
+        #right{width:100%;padding-left:80px;}
+        h1{font-size:33px;text-align:left;}
+        p{text-align:left;font-size:10px;padding-left:0px;}
+        </style>
+    </head>
+    <body>
+        <div id="left">:(</div>
+        <div id="right">
+            <h1>Your PC needs to restart. Please hold down the power button. Error Code: 0x0000005D</h1>
+            <p>Write something here</p>
+        </div>
+    </body>
+</html>
